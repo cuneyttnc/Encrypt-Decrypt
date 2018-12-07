@@ -4,7 +4,7 @@ using System.Security.Cryptography;
 
 public class CryptorEngine
 {
-    public static string Passphrase = "MYCNT";
+    public static string Passphrase = "My Password";
 
     // Kullanımı:
     // string EncryptedString = CryptorEngine.EncryptString(Msg);
